@@ -5,7 +5,7 @@ Not very useful, but looks nice at least, in my opinion.
 
 ## How to run
 
-Download the [release](https://github.com/irekgab/colorful-explosions/releases/latest) (only windows), or build on your own.
+Download the [release](https://github.com/irekgab/colorful_explosions/releases/latest) (only windows), or build on your own.
 
 ## Parameters
 
